@@ -8,5 +8,7 @@ public class gittEST {
         System.out.println("opq");
         System.out.println("qibajiu");
         System.out.println("231231564");
+        System.out.println("231231564");
+        System.out.println("231231564");
     }
 }
